@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Scientist at the School of Informatics, University of Edinburgh. I collaborate with other schools and institutes within the University of Edinburgh. For more information, please visit [my homepage](http://homepages.inf.ed.ac.uk/sseth/). My research is focussed on machine learning and computational biology. 
+I am a Senior Data Scientist at the School of Informatics, University of Edinburgh. I collaborate with other schools and institutes within the University of Edinburgh. For more information, please visit [my homepage](http://homepages.inf.ed.ac.uk/sseth/). My research is focussed on machine learning and computational biology. I organize the [Data to Discovery](https://sohanseth.github.io/d2d/) seminar series.
 
 # News
 ---
