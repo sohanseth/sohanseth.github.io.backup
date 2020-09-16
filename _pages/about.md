@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the Senior Data Scientist at the School of Informatics, University of Edinburgh. I collaborate with other schools and institutes within the university on on the application of machine learning for science and social good. Visit [my homepage](http://homepages.inf.ed.ac.uk/sseth/) more information. 
+I am the Senior Data Scientist at the School of Informatics, University of Edinburgh. I collaborate with other schools and institutes within the university on the application of machine learning for science and social good. Visit [my homepage](http://homepages.inf.ed.ac.uk/sseth/) for more information. 
 
 I organize the monthly [Data to Discovery](https://sohanseth.github.io/d2d/) seminar series.
 
