@@ -5,12 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2020
+
+- __Robust, reproducible clinical patterns in hospitalised patients with COVID-19__  
+  _Jonathan Millar, Lucile Neyton, Sohan Seth, et al._  
+  Under Review  
+  [[medRxiv]](https://www.medrxiv.org/content/10.1101/2020.08.14.20168088v2)
+
+- __Clinical characteristics of children and young people admitted to hospital with covid-19 in United Kingdom: prospective multicentre observational cohort study__  
+  _Olivia Swann et al._  
+  The BMJ  
+  [[Paper]](https://www.bmj.com/content/370/bmj.m3249)
+
+# 2019
+
+- __scID: identification of equivalent transcriptional cell populations across single cell RNA-seq data using discriminant analysis__  
+  _Katerina Boufea, Sohan Seth, Nizar N Batada_  
+  iScience  
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2589004220300985)
+
+- __Endoscopic sensing of distal lung physiology__  
+  _Debaditya Choudhury et al._    
+  Journal of Physics: Conference Series  
+  [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1151/1/012009/pdf)
+
 # 2018
 
 - __Model Criticism in Latent Space__  
   _Sohan Seth, Iain Murray, Christopher K. I. Williams_  
   Bayesian Analysis  
-  [[axXiv]](https://arxiv.org/abs/1711.04674) [[code]](https://github.com/sohanseth/mcls)
+  [[arXiv]](https://arxiv.org/abs/1711.04674) [[code]](https://github.com/sohanseth/mcls)
 
 - __Estimating Bacterial and Cellular Load in FCFM Imaging__  
   _Sohan Seth, Ahsan K. Akram, Kevin Dhaliwal, Christopher K. I. Williams_  
